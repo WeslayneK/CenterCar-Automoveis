@@ -17,8 +17,7 @@
 - [X] Edição de carros
 - [X] Exclusão de usuário
 - [X] Exclusão de carros
-![](center_car_funcionalidades.gif)
-
+- [X] Login Usuário Comum e Administrador
 
 ### 🛠 Tecnologias
 
@@ -28,3 +27,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [MySQL](https://www.mysql.com/)
+
+Vídeo de demonstração de uso do Website:
+- [Youtube](https://youtu.be/JevZVhT9P9w)
